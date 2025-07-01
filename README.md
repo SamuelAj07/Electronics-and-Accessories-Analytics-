@@ -6,7 +6,7 @@
 
 [Data Sources](#data-sources)
 
-[Technical Stack](#tools-used)
+[Technical Stack](#technical-stack)
 
 [Data Overview](#data-overview) 
 
@@ -14,7 +14,7 @@
 
 [Ask](#ask)
 
-[Analysis Visualisation](#analysis-visualisation)
+[Dashboard Visuals](#dashboard-visuals)
 
 [Key Insights](#key-insights)
 
@@ -28,9 +28,10 @@ This project presents a year-over-year sales performance analysis. It explores k
 
 ## Data Sources
 
-Excel file obtained from the Youtube channel titled “Create a Dynamic dashboard with Pivot Table and Pivot Charts” by Freedom Analytics
+Excel file obtained from the Youtube channel titled *“Create a Dynamic dashboard with Pivot Table and Pivot Charts”* by Freedom Analytics
 
 ## Technical Stack
+
 - Excel – Data cleaning and organization 
 - Pivot tables- Summarize and present analyzed data
 - Interactive Dashboard – KPIs, trend charts and behavioral insights
@@ -54,24 +55,29 @@ A brief overview of the tabular datasets to be analyzed.
 
 ## ASK❔
 
-i.	How has the overall sales, profit, and product performance changed from 2023 to 2024?
+ 	How has the overall sales, profit, and product performance changed from 2023 to 2024?
+
 ii.  Which months, products, and regions are driving growth, and where do we need improvements?
 
  ## Dashboard Visuals 
 
 
-## 💡 Key Insights
+## Key Insights
 
-🔹 **Key Performance:
+🔹 **Key Performance:**
+
 Sales, quantity, and profit all saw significant year-on-year growth, with profit increasing by 34%, indicating improved efficiency and profitability. 
 
-🔹 **Monthly revenue Trend:
+🔹 **Monthly revenue Trend:**
+
 2024 revenue consistently outperformed 2023 with notable growths in April, June, July and Q4, despite a significant drop in May. 
 
-🔹 **Regional Sales Distribution:
+🔹 **Regional Sales Distribution:**
+
 The South region led sales performance, while North remained the weakest, showing minimal improvement year-on-year.
 
-🔹 **Product-wise Sales:
+🔹 **Product-wise Sales:**
+
 Monitor and Mouse experienced the highest growth in 2024, whereas Keyboard and Laptop showed decline. 
 
 ## Strategic Recommendations
