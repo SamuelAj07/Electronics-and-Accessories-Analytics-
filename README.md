@@ -1,6 +1,6 @@
 # 💻Electronics-and-Accessories-Analytics-
 
-# Table of Content
+# 📝Table of Content
 
 [Insight Brief](#insight-brief)
 
@@ -22,11 +22,11 @@
 
 [Reference](#reference)
 
-## 🧠Insight Brief
+## 📌Insight Brief
 
 This project presents a year-over-year sales performance analysis. It explores key business metrics such as revenue, profit, cost, quantity, and product performance across different months and regions for 2023 and 2024. The goal was to uncover actionable insights, identify growth drivers, and detect areas needing improvement through visual dashboards.
 
-## Data Sources
+## 📂Data Sources
 
 Excel file obtained from the Youtube channel titled *“Create a Dynamic dashboard with Pivot Table and Pivot Charts”* by Freedom Analytics
 
@@ -53,6 +53,15 @@ Excel file obtained from the Youtube channel titled *“Create a Dynamic dashboa
 
 A brief overview of the tabular datasets to be analyzed.
 
+OrderID|Date|Month|Year|Product|Category|Region|Sales|Quantity|Cost|
+|-----|----|-----|-----|-----|----|-----|-----|-----|----|
+ORD0001|2023-01-26|	Jan|	2023|	Printer|	Electronics|	East|	1219.5|	5|	211.02|
+ORD0002|	2024-08-27|	Aug|	2024|	Laptop|	Electronics|	East|	356.63|	7|	44.79|
+ORD0003|	2024-07-28|	Jul|	2024|	Mouse|	Accessories|	East|	3194.55|	4|	578.5|
+ORD0004|	2024-04-04|	Apr|	2024|	Monitor|	Electronics|	West|	3430.95|	10|	236.99|
+ORD0005|	2023-12-15|	Dec|	2023|	Mouse|	Accessories|	South|	1047.44|	5|	141.27|
+
+
 ## 🔎ASK❔
 
 ✅ How has the overall sales, profit, and product performance changed from 2023 to 2024?
@@ -62,7 +71,7 @@ A brief overview of the tabular datasets to be analyzed.
  ## 📊Dashboard Visuals 
 
 
-## Key Insights
+## 💎Key Insights
 
 🔹 **Key Performance:**
 
@@ -96,12 +105,12 @@ Monitor and Mouse experienced the highest growth in 2024, whereas Keyboard and L
 	
 7.	Evaluate pricing, or product positioning for underperforming items like keyboards and laptops. 
 
-## 📍 Reference
+## 🔗Reference
 Credit to Freedom oboh for original data concept and inspiration  
 
 ----
 
-*Without data you are just anothe person with an opinion.*
+*Without data you are just another person with an opinion.*
 
 
       
