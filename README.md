@@ -28,12 +28,14 @@ This project presents a year-over-year sales performance analysis. It explores k
 
 ## 📂Data Sources
 
-Excel file obtained from the Youtube channel titled *“Create a Dynamic dashboard with Pivot Table and Pivot Charts”* by Freedom Analytics
+Excel file obtained from Data Analytics Tutorial 
 
 ## 🛠Technical Stack
 
-- Excel – Data cleaning and organization 
+- Excel – Data cleaning and organization
+  	- [Datasets]()
 - Pivot tables- Summarize and present analyzed data
+  	- [Cross-tabulation]()
 - Interactive Dashboard – KPIs, trend charts and behavioral insights
 
 ## 🧩Data Overview
