@@ -1,4 +1,4 @@
-# Electronics-and-Accessories-Analytics-
+# 💻Electronics-and-Accessories-Analytics-
 
 # Table of Content
 
@@ -22,7 +22,7 @@
 
 [Reference](#reference)
 
-## Insight Brief
+## 🧠Insight Brief
 
 This project presents a year-over-year sales performance analysis. It explores key business metrics such as revenue, profit, cost, quantity, and product performance across different months and regions for 2023 and 2024. The goal was to uncover actionable insights, identify growth drivers, and detect areas needing improvement through visual dashboards.
 
@@ -30,13 +30,13 @@ This project presents a year-over-year sales performance analysis. It explores k
 
 Excel file obtained from the Youtube channel titled *“Create a Dynamic dashboard with Pivot Table and Pivot Charts”* by Freedom Analytics
 
-## Technical Stack
+## 🛠Technical Stack
 
 - Excel – Data cleaning and organization 
 - Pivot tables- Summarize and present analyzed data
 - Interactive Dashboard – KPIs, trend charts and behavioral insights
 
-## Data Overview
+## 🧩Data Overview
 
 1. Order ID: Unique identifier number 
 2. Date: The day order was recorded
@@ -49,17 +49,17 @@ Excel file obtained from the Youtube channel titled *“Create a Dynamic dashboa
 9. Quantity: Number of units sold
 10. Cost: Total expense incurred 
 
-## Tabular Overview 
+## 🔳Tabular Overview 
 
 A brief overview of the tabular datasets to be analyzed.
 
-## ASK❔
+## 🔎ASK❔
 
- 	How has the overall sales, profit, and product performance changed from 2023 to 2024?
+✅ How has the overall sales, profit, and product performance changed from 2023 to 2024?
 
-ii.  Which months, products, and regions are driving growth, and where do we need improvements?
+✅ Which months, products, and regions are driving growth, and where do we need improvements?
 
- ## Dashboard Visuals 
+ ## 📊Dashboard Visuals 
 
 
 ## Key Insights
@@ -80,18 +80,28 @@ The South region led sales performance, while North remained the weakest, showin
 
 Monitor and Mouse experienced the highest growth in 2024, whereas Keyboard and Laptop showed decline. 
 
-## Strategic Recommendations
+## 🎯Strategic Recommendations
 
 1.	Double down on high performing strategies that contribute to growth.
-2.	 Plan ahead for high performing months like April, June and Q4. 
+   
+2. Plan ahead for high performing months like April, June and Q4.
+	 
 3.	Investigate the root cause of the May 2024 dip (Supply Issues, Seasonality)
-4.	Scale successful regional tactics from the South to other regions. 
-5.	Conduct market research in the North to understand local barriers and inclusion on pricing incentives 
-6.	Expand inventory and marketing for high-performing products. 
+	
+4.	Scale successful regional tactics from the South to other regions.
+	
+5.	Conduct market research in the North to understand local barriers and inclusion on pricing incentives
+	
+6.	Expand inventory and marketing for high-performing products.
+	
 7.	Evaluate pricing, or product positioning for underperforming items like keyboards and laptops. 
 
-## Reference
+## 📍 Reference
 Credit to Freedom oboh for original data concept and inspiration  
+
+----
+
+*Without data you are just anothe person with an opinion.*
 
 
       
