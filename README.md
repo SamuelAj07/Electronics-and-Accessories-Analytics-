@@ -70,6 +70,13 @@ ORD0005|	2023-12-15|	Dec|	2023|	Mouse|	Accessories|	South|	1047.44|	5|	141.27|
 
  ## 📊Dashboard Visuals 
 
+![Excel Visuals](https://github.com/user-attachments/assets/3339c4f5-3795-4241-b360-4cd4b3a7341e)
+
+*Revenue by Accessories*
+![Screenshot (159)](https://github.com/user-attachments/assets/e770052f-33f6-4a82-968e-c49eed1a8d31)
+
+*Revenue by Electronics*
+![Screenshot (160)](https://github.com/user-attachments/assets/51ea62e5-c6dc-4962-b045-4cd71c67b181)
 
 ## 💎Key Insights
 
