@@ -33,9 +33,9 @@ Excel file obtained from Data Analytics Tutorial
 ## 🛠Technical Stack
 
 - Excel – Data cleaning and organization
-  	- [Datasets]()
+  	- [Datasets](https://ibb.co/PsLRfxLf)
 - Pivot tables- Summarize and present analyzed data
-  	- [Cross-tabulation]()
+  	- [Cross-tabulation](https://ibb.co/234nLgJ7)
 - Interactive Dashboard – KPIs, trend charts and behavioral insights
 
 ## 🧩Data Overview
